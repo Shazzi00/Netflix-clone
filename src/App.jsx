@@ -675,7 +675,7 @@ function App() {
           </div>
 
           <div className="pt-3 text-[9px] md:text-[10px] text-zinc-600 font-medium select-none tracking-wide">
-            <p>© 1997-2026 Netflix Clone Inc. Portfolio Optimization Project.</p>
+            <p>© Netflix Clone Inc. Portfolio Optimization Project By Sheraz Asad.</p>
           </div>
 
         </div>
